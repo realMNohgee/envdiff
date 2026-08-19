@@ -1,4 +1,5 @@
 # envdiff 🔍
+![CI](https://github.com/realMNohgee/envdiff/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Diff, sort, and validate `.env` files.** Zero dependencies, pure Python stdlib.
 
